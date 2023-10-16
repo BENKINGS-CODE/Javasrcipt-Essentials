@@ -1,0 +1,21 @@
+p{
+    background-color: blue;
+    border-radius: 20px;
+
+box-sizing: border-box;
+    text-align: left;
+}
+    .btn-wrapper {
+    
+        display: flex;
+        height: 10vh;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: nowrap;
+        
+    }
+    .btn {
+        background-color: red;
+    }
+    
